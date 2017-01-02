@@ -1,5 +1,5 @@
 ---
-layout: single-column
+layout: custom
 ---
 
 
@@ -8,10 +8,6 @@ layout: single-column
 - No CTO or technical co-founders
 - Lack of technical guidance
 - Missing technical network
-
-
-# Results
-
 - Ideas never materialize
 - Fail to break the ground
 - Unable to raise funding
